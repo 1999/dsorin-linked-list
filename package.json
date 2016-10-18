@@ -1,0 +1,14 @@
+{
+  "name": "dsorin-linked-list",
+  "version": "0.0.1",
+  "description": "Linked list node",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha spec.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
